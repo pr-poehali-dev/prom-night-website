@@ -71,6 +71,13 @@ export default {
         "soft-pink": "#FFDEE2",
         "soft-blue": "#D3E4FD",
         "soft-peach": "#FDE1D3",
+        // Graduation purple/violet theme colors
+        "grad-purple": "#8B5CF6",
+        "grad-violet": "#A855F7",
+        "grad-indigo": "#6366F1",
+        "grad-pink": "#EC4899",
+        "grad-light": "#F3E8FF",
+        "grad-dark": "#581C87",
       },
       borderRadius: {
         lg: "var(--radius)",
